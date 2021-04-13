@@ -6,3 +6,7 @@ management:
           - info
           - health
           - prometheus
+
+graphql:
+  query:
+    maxDepth: 4
